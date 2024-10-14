@@ -1,0 +1,53 @@
+&& LFBP 31 (VPT 13) &&
+
+Fixes:ARSIG:symbol
+Fixes:OSVEG:name
+Fixes:OSVEG:symbol
+Fixes:SOVOS:name
+Fixes:SOVOS:symbol
+Fixes:TEPTI:symbol
+Free Text:LFBP AMSR\13900:freetext
+Free Text:LFBP AMSR\3000:freetext
+Free Text:LFBP AMSR\4000:freetext
+Free Text:LFBP AMSR\5000:freetext
+Free Text:LFBP AMSR\6000:freetext
+Free Text:LFBP AMSR\8000:freetext
+Geo:LFBB Landmark Coastline:
+Geo:LFBP MRVA Pau AMSR:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Runways:LFBA 11-29:centerline
+Runways:LFBC 06-24:centerline
+Runways:LFBD 05-23:centerline
+Runways:LFBD 11-29:centerline
+Runways:LFBE 09-27:centerline
+Runways:LFBF 11-29:centerline
+Runways:LFBG 05-23:centerline
+Runways:LFBG 08-26:centerline
+Runways:LFBH 09-27:centerline
+Runways:LFBI 03-21:centerline
+Runways:LFBL 03-21:centerline
+Runways:LFBO 14L-32R:centerline
+Runways:LFBO 14R-32L:centerline
+Runways:LFBP 13-31:centerline
+Runways:LFBT 02-20:centerline
+Runways:LFBZ 09-27:centerline
+Runways:LFBA 11-29:centerline
+Runways:LFBM 09-27:centerline
+Runways:LFCK 14-32:centerline
+Runways:LFMK 09-27:centerline
+Runways:LFSL 11-29:centerline
+Runways:LFBP 13-31:extended centerline 2
+Runways:LFBP 13-31:extended centerline 2 left vectoring
+Runways:LFBP 13-31:extended centerline 2 right vectoring
+Stars:LFBP ILS31 OSVEG:
+Stars:LFBP ILS31 TEPTI1:
+Stars:LFBP STAR ALL AGN7R:
+Stars:LFBP STAR ALL SOVOS7R:
+Stars:LFBP STAR ALL TOU7R:
+VORs:AGN:name
+VORs:AGN:symbol
+VORs:TOU:name
+VORs:TOU:symbol

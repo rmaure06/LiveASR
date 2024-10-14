@@ -1,0 +1,87 @@
+&& LFBZ 09 &&
+
+Fixes:BZ092:symbol
+Fixes:BZ507:symbol
+Fixes:DONOS:name
+Fixes:DONOS:symbol
+Fixes:IBZ09:name
+Fixes:IBZ09:symbol
+Fixes:MAGEC:name
+Fixes:MAGEC:symbol
+Fixes:OSGOT:symbol
+Fixes:SOVOS:name
+Fixes:SOVOS:symbol
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Runways:LFBA 11-29:centerline
+Runways:LFBC 06-24:centerline
+Runways:LFBD 05-23:centerline
+Runways:LFBD 11-29:centerline
+Runways:LFBE 09-27:centerline
+Runways:LFBF 11-29:centerline
+Runways:LFBG 05-23:centerline
+Runways:LFBG 08-26:centerline
+Runways:LFBH 09-27:centerline
+Runways:LFBI 03-21:centerline
+Runways:LFBL 03-21:centerline
+Runways:LFBO 14L-32R:centerline
+Runways:LFBO 14R-32L:centerline
+Runways:LFBP 13-31:centerline
+Runways:LFBT 02-20:centerline
+Runways:LFBZ 09-27:centerline
+Runways:LFBA 11-29:centerline
+Runways:LFBM 09-27:centerline
+Runways:LFCK 14-32:centerline
+Runways:LFMK 09-27:centerline
+Runways:LFSL 11-29:centerline
+Stars:LFBZ RNP09:
+Stars:LFBZ RNP09 BZ507:
+Stars:LFBZ RNP09 OSGOT:
+Stars:LFBZ STAR 09 DONOS2R:
+Stars:LFBZ STAR 09 MAGEC2R:
+Stars:LFBZ STAR 09 SOVOS2R:
+Stars:LFBZ STAR 09 SSN2R:
+VORs:SSN:name
+VORs:SSN:symbol
+
+&& LFBZ 27 &&
+
+Fixes:DONOS:name
+Fixes:DONOS:symbol
+Fixes:MAGEC:name
+Fixes:MAGEC:symbol
+Fixes:SOVOS:name
+Fixes:SOVOS:symbol
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Runways:LFBA 11-29:centerline
+Runways:LFBC 06-24:centerline
+Runways:LFBD 05-23:centerline
+Runways:LFBD 11-29:centerline
+Runways:LFBE 09-27:centerline
+Runways:LFBF 11-29:centerline
+Runways:LFBG 05-23:centerline
+Runways:LFBG 08-26:centerline
+Runways:LFBH 09-27:centerline
+Runways:LFBI 03-21:centerline
+Runways:LFBL 03-21:centerline
+Runways:LFBO 14L-32R:centerline
+Runways:LFBO 14R-32L:centerline
+Runways:LFBP 13-31:centerline
+Runways:LFBT 02-20:centerline
+Runways:LFBZ 09-27:centerline
+Runways:LFBZ 09-27:extended centerline 2
+Runways:LFBZ 09-27:extended centerline 2 left vectoring
+Runways:LFBZ 09-27:extended centerline 2 right vectoring
+Stars:LFBZ STAR 27 DONOS2S:
+Stars:LFBZ STAR 27 MAGEC2S:
+Stars:LFBZ STAR 27 SOVOS2S:
+Stars:LFBZ STAR 27 SSN2S:
+VORs:SSN:name
+VORs:SSN:symbol

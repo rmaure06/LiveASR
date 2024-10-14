@@ -1,0 +1,65 @@
+&& LFMK 09 &&
+
+Fixes:IMK09:name
+Fixes:IMK09:symbol
+Fixes:MK400:symbol
+Fixes:ORBIL:name
+Fixes:ORBIL:symbol
+Fixes:RAPES:symbol
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Runways:LFBA 11-29:centerline
+Runways:LFBC 06-24:centerline
+Runways:LFBD 05-23:centerline
+Runways:LFBD 11-29:centerline
+Runways:LFBE 09-27:centerline
+Runways:LFBF 11-29:centerline
+Runways:LFBG 05-23:centerline
+Runways:LFBG 08-26:centerline
+Runways:LFBH 09-27:centerline
+Runways:LFBI 03-21:centerline
+Runways:LFBL 03-21:centerline
+Runways:LFBO 14L-32R:centerline
+Runways:LFBO 14R-32L:centerline
+Runways:LFBP 13-31:centerline
+Runways:LFBT 02-20:centerline
+Runways:LFBZ 09-27:centerline
+Runways:LFBA 11-29:centerline
+Runways:LFBM 09-27:centerline
+Runways:LFCK 14-32:centerline
+Runways:LFMK 09-27:centerline
+Runways:LFSL 11-29:centerline
+Stars:LFMK RNP09:
+Stars:LFMK RNP09 MK400:
+Stars:LFMK STAR ALL FJR3R:
+Stars:LFMK STAR ALL GAI3R:
+Stars:LFMK STAR ALL ORBIL3R:
+VORs:FJR:name
+VORs:FJR:symbol
+VORs:GAI:name
+VORs:GAI:symbol
+
+&& LFMK 27 &&
+
+Fixes:MK400:name
+Fixes:MK400:symbol
+Fixes:ORBIL:name
+Fixes:ORBIL:symbol
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Stars:LFMK RNP27:
+Stars:LFMK RNP27 MK302:
+Stars:LFMK RNP27 MK400:
+Stars:LFMK STAR ALL FJR3R:
+Stars:LFMK STAR ALL GAI3R:
+Stars:LFMK STAR ALL ORBIL3R:
+VORs:FJR:name
+VORs:FJR:symbol
+VORs:GAI:name
+VORs:GAI:symbol

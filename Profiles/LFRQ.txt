@@ -1,0 +1,87 @@
+&& LFRQ 09 &&
+
+Fixes:IRQ09:name
+Fixes:IRQ09:symbol
+Fixes:RQ401:symbol
+Fixes:RQ403:symbol
+Fixes:RQ404:name
+Fixes:RQ404:symbol
+Free Text:ZONE P112 BREST\FL195:freetext
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Geo:LFRR Prohibited area Brest P 112:
+Runways:LFRB 07R-25L:centerline
+Runways:LFRC 10-28:centerline
+Runways:LFRD 12-30:centerline
+Runways:LFRD 17-35:centerline
+Runways:LFRE 11-29:centerline
+Runways:LFRF 06-24:centerline
+Runways:LFRG 12-30:centerline
+Runways:LFRH 02-20:centerline
+Runways:LFRH 07-25:centerline
+Runways:LFRI 10-28:centerline
+Runways:LFRJ 07-25:centerline
+Runways:LFRK 13-31:centerline
+Runways:LFRN 10-28:centerline
+Runways:LFRN 14-32:centerline
+Runways:LFRO 11-29:centerline
+Runways:LFRQ 09-27:centerline
+Runways:LFRS 03-21:centerline
+Runways:LFRT 06-24:centerline
+Runways:LFRU 04-22:centerline
+Runways:LFRU 09-27:centerline
+Runways:LFRU 15-33:centerline
+Runways:LFRV 04-22:centerline
+Runways:LFRV 08-26:centerline
+Runways:LFRZ 07-25:centerline
+Stars:LFRQ RNP09:
+Stars:LFRQ RNP09 RQ401:
+Stars:LFRQ RNP09 RQ403:
+Stars:LFRQ RNP09 RQ404:
+
+&& LFRQ 27 (Préférentielle) &&
+
+Fixes:ROSPO:name
+Fixes:ROSPO:symbol
+Fixes:RQ402:name
+Fixes:RQ402:symbol
+Fixes:RQ404:name
+Fixes:RQ404:symbol
+Free Text:ZONE P112 BREST\FL195:freetext
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Geo:LFRR Prohibited area Brest P 112:
+Runways:LFRB 07R-25L:centerline
+Runways:LFRC 10-28:centerline
+Runways:LFRD 12-30:centerline
+Runways:LFRD 17-35:centerline
+Runways:LFRE 11-29:centerline
+Runways:LFRF 06-24:centerline
+Runways:LFRG 12-30:centerline
+Runways:LFRH 02-20:centerline
+Runways:LFRH 07-25:centerline
+Runways:LFRI 10-28:centerline
+Runways:LFRJ 07-25:centerline
+Runways:LFRK 13-31:centerline
+Runways:LFRN 10-28:centerline
+Runways:LFRN 14-32:centerline
+Runways:LFRO 11-29:centerline
+Runways:LFRQ 09-27:centerline
+Runways:LFRS 03-21:centerline
+Runways:LFRT 06-24:centerline
+Runways:LFRU 04-22:centerline
+Runways:LFRU 09-27:centerline
+Runways:LFRU 15-33:centerline
+Runways:LFRV 04-22:centerline
+Runways:LFRV 08-26:centerline
+Runways:LFRZ 07-25:centerline
+Stars:LFRQ RNP27:
+Stars:LFRQ RNP27 ROSPO:
+Stars:LFRQ RNP27 RQ402:
+Stars:LFRQ RNP27 RQ404:

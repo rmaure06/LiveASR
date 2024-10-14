@@ -1,0 +1,102 @@
+&& LFRK 31 (Préférentielle) &&
+
+Fixes:BERNO:name
+Fixes:BERNO:symbol
+Fixes:LUSIT:name
+Fixes:LUSIT:symbol
+Fixes:NEVIL:name
+Fixes:NEVIL:symbol
+Fixes:PIKUP:symbol
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Runways:LFRB 07R-25L:centerline
+Runways:LFRC 10-28:centerline
+Runways:LFRD 12-30:centerline
+Runways:LFRD 17-35:centerline
+Runways:LFRE 11-29:centerline
+Runways:LFRF 06-24:centerline
+Runways:LFRG 12-30:centerline
+Runways:LFRH 02-20:centerline
+Runways:LFRH 07-25:centerline
+Runways:LFRI 10-28:centerline
+Runways:LFRJ 07-25:centerline
+Runways:LFRK 13-31:centerline
+Runways:LFRN 10-28:centerline
+Runways:LFRN 14-32:centerline
+Runways:LFRO 11-29:centerline
+Runways:LFRQ 09-27:centerline
+Runways:LFRS 03-21:centerline
+Runways:LFRT 06-24:centerline
+Runways:LFRU 04-22:centerline
+Runways:LFRU 09-27:centerline
+Runways:LFRU 15-33:centerline
+Runways:LFRV 04-22:centerline
+Runways:LFRV 08-26:centerline
+Runways:LFRZ 07-25:centerline
+Runways:LFRK 13-31:extended centerline 2
+Runways:LFRK 13-31:extended centerline 2 left vectoring
+Runways:LFRK 13-31:extended centerline 2 right vectoring
+Stars:LFRK ILS31-Z CAN:
+Stars:LFRK STAR ALL BERNO4C:
+Stars:LFRK STAR ALL LGL4C:
+Stars:LFRK STAR ALL LUSIT4C:
+Stars:LFRK STAR ALL NEVIL4C:
+VORs:CAN:symbol
+VORs:LGL:name
+VORs:LGL:symbol
+
+&& LFRK 13 &&
+
+Fixes:BERNO:name
+Fixes:BERNO:symbol
+Fixes:IRK13:name
+Fixes:IRK13:symbol
+Fixes:LUSIT:name
+Fixes:LUSIT:symbol
+Fixes:NEVIL:name
+Fixes:NEVIL:symbol
+Fixes:PIKIV:symbol
+Fixes:PIKUP:symbol
+Fixes:XASUD:symbol
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Runways:LFRB 07R-25L:centerline
+Runways:LFRC 10-28:centerline
+Runways:LFRD 12-30:centerline
+Runways:LFRD 17-35:centerline
+Runways:LFRE 11-29:centerline
+Runways:LFRF 06-24:centerline
+Runways:LFRG 12-30:centerline
+Runways:LFRH 02-20:centerline
+Runways:LFRH 07-25:centerline
+Runways:LFRI 10-28:centerline
+Runways:LFRJ 07-25:centerline
+Runways:LFRK 13-31:centerline
+Runways:LFRN 10-28:centerline
+Runways:LFRN 14-32:centerline
+Runways:LFRO 11-29:centerline
+Runways:LFRQ 09-27:centerline
+Runways:LFRS 03-21:centerline
+Runways:LFRT 06-24:centerline
+Runways:LFRU 04-22:centerline
+Runways:LFRU 09-27:centerline
+Runways:LFRU 15-33:centerline
+Runways:LFRV 04-22:centerline
+Runways:LFRV 08-26:centerline
+Runways:LFRZ 07-25:centerline
+Stars:LFRK RNP13:
+Stars:LFRK RNP13 PIKIV:
+Stars:LFRK RNP13 XASUD:
+Stars:LFRK STAR ALL BERNO1E:
+Stars:LFRK STAR ALL LGL4C:
+Stars:LFRK STAR ALL LUSIT4C:
+Stars:LFRK STAR ALL NEVIL4C:
+VORs:CAN:symbol
+VORs:LGL:name
+VORs:LGL:symbol

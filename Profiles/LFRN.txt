@@ -1,0 +1,99 @@
+&& LFRN 10 &&
+
+Fixes:ENOKI:name
+Fixes:ENOKI:symbol
+Fixes:LUVOP:name
+Fixes:LUVOP:symbol
+Fixes:RN502:name
+Fixes:RN502:symbol
+Fixes:RN503:name
+Fixes:RN503:symbol
+Fixes:RN504:name
+Fixes:RN504:symbol
+Fixes:SAMPO:name
+Fixes:SAMPO:symbol
+Fixes:VAKSI:name
+Fixes:VAKSI:symbol
+Fixes:VAKSO:name
+Fixes:VAKSO:symbol
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Runways:LFRB 07R-25L:centerline
+Runways:LFRC 10-28:centerline
+Runways:LFRD 12-30:centerline
+Runways:LFRD 17-35:centerline
+Runways:LFRE 11-29:centerline
+Runways:LFRF 06-24:centerline
+Runways:LFRG 12-30:centerline
+Runways:LFRH 02-20:centerline
+Runways:LFRH 07-25:centerline
+Runways:LFRI 10-28:centerline
+Runways:LFRJ 07-25:centerline
+Runways:LFRK 13-31:centerline
+Runways:LFRN 10-28:centerline
+Runways:LFRN 14-32:centerline
+Runways:LFRO 11-29:centerline
+Runways:LFRQ 09-27:centerline
+Runways:LFRS 03-21:centerline
+Runways:LFRT 06-24:centerline
+Runways:LFRU 04-22:centerline
+Runways:LFRU 09-27:centerline
+Runways:LFRU 15-33:centerline
+Runways:LFRV 04-22:centerline
+Runways:LFRV 08-26:centerline
+Runways:LFRZ 07-25:centerline
+Stars:LFRN RNP10:
+Stars:LFRN RNP10 ENOKI:
+Stars:LFRN RNP10 RN502:
+Stars:LFRN RNP10 RN503:
+Stars:LFRN RNP10 RN504:
+VORs:REN:name
+VORs:REN:symbol
+
+&& LFRN 28 &&
+
+Fixes:ENOKI:name
+Fixes:ENOKI:symbol
+Fixes:LUVOP:name
+Fixes:LUVOP:symbol
+Fixes:SAMPO:name
+Fixes:SAMPO:symbol
+Fixes:VAKSI:name
+Fixes:VAKSI:symbol
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Runways:LFRB 07R-25L:centerline
+Runways:LFRC 10-28:centerline
+Runways:LFRD 12-30:centerline
+Runways:LFRD 17-35:centerline
+Runways:LFRE 11-29:centerline
+Runways:LFRF 06-24:centerline
+Runways:LFRG 12-30:centerline
+Runways:LFRH 02-20:centerline
+Runways:LFRH 07-25:centerline
+Runways:LFRI 10-28:centerline
+Runways:LFRJ 07-25:centerline
+Runways:LFRK 13-31:centerline
+Runways:LFRN 10-28:centerline
+Runways:LFRN 14-32:centerline
+Runways:LFRO 11-29:centerline
+Runways:LFRQ 09-27:centerline
+Runways:LFRS 03-21:centerline
+Runways:LFRT 06-24:centerline
+Runways:LFRU 04-22:centerline
+Runways:LFRU 09-27:centerline
+Runways:LFRU 15-33:centerline
+Runways:LFRV 04-22:centerline
+Runways:LFRV 08-26:centerline
+Runways:LFRZ 07-25:centerline
+Runways:LFRN 10-28:extended centerline 2
+Runways:LFRN 10-28:extended centerline 2 left vectoring
+Runways:LFRN 10-28:extended centerline 2 right vectoring
+VORs:REN:name
+VORs:REN:symbol

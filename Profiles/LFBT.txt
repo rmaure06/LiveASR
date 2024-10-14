@@ -1,0 +1,54 @@
+&& LFBT 20 (VPT 02) &&
+
+Fixes:ARSIG:symbol
+Fixes:SOVOS:name
+Fixes:SOVOS:symbol
+Fixes:TEPTI:symbol
+Fixes:VAKPI:symbol
+Free Text:LFBT AMSR\13900:freetext
+Free Text:LFBT AMSR\3000:freetext
+Free Text:LFBT AMSR\4000:freetext
+Free Text:LFBT AMSR\5000:freetext
+Free Text:LFBT AMSR\6000:freetext
+Free Text:LFBT AMSR\8000:freetext
+Geo:LFBB Landmark Coastline:
+Geo:LFBT MRVA Tarbes AMSR:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Runways:LFBA 11-29:centerline
+Runways:LFBC 06-24:centerline
+Runways:LFBD 05-23:centerline
+Runways:LFBD 11-29:centerline
+Runways:LFBE 09-27:centerline
+Runways:LFBF 11-29:centerline
+Runways:LFBG 05-23:centerline
+Runways:LFBG 08-26:centerline
+Runways:LFBH 09-27:centerline
+Runways:LFBI 03-21:centerline
+Runways:LFBL 03-21:centerline
+Runways:LFBO 14L-32R:centerline
+Runways:LFBO 14R-32L:centerline
+Runways:LFBP 13-31:centerline
+Runways:LFBT 02-20:centerline
+Runways:LFBZ 09-27:centerline
+Runways:LFBA 11-29:centerline
+Runways:LFBM 09-27:centerline
+Runways:LFCK 14-32:centerline
+Runways:LFMK 09-27:centerline
+Runways:LFSL 11-29:centerline
+Runways:LFBT 02-20:extended centerline 2
+Runways:LFBT 02-20:extended centerline 2 left vectoring
+Runways:LFBT 02-20:extended centerline 2 right vectoring
+Stars:LFBT ILS20-Z ARSIG:
+Stars:LFBT ILS20-Z TBO:
+Stars:LFBT ILS20-Z TEPTI:
+Stars:LFBT ILS20-Z VAKPI:
+Stars:LFBP STAR ALL AGN7R:
+Stars:LFBP STAR ALL SOVOS7R:
+Stars:LFBP STAR ALL TOU7R:
+VORs:AGN:name
+VORs:AGN:symbol
+VORs:TOU:name
+VORs:TOU:symbol

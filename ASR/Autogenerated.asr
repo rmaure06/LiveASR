@@ -1,0 +1,38 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\rmaur\Documents\France CoPack\LFXX.sct
+SECTORTITLE:LFXX.sct
+ARTCC high boundary:FIR border LFBB LFBB-H_UIR:
+ARTCC high boundary:FIR border LFFF LFFF FIR:
+ARTCC high boundary:FIR border LFMM LFMM FIR:
+ARTCC high boundary:FIR border LFMM LFMM-L_UIR:
+ARTCC high boundary:FIR border LFRR LFRR-H_UIR:
+ARTCC high boundary:FIR border LFRR LFXX-NH:
+ARTCC high boundary:Marseille UIR RAE:
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-4
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:CoFrance
+WINDOWAREA:38.168174:-18.956717:52.221049:21.260595
+PLUGIN:CoFrance:APP:1
+PLUGIN:CoFrance:FILT:0
+PLUGIN:CoFrance:FILTABOVE:99999
+PLUGIN:CoFrance:FILTBELOW:0
+PLUGIN:CoFrance:RAD:1
+PLUGIN:CoFrance:VV:1
+PLUGIN:CoFrance:VVTIME:2

@@ -1,0 +1,49 @@
+&& LFCK 14 (VPT 32) &&
+
+Fixes:AFRIC:name
+Fixes:AFRIC:symbol
+Fixes:FINOT:name
+Fixes:FINOT:symbol
+Fixes:MASAM:name
+Fixes:MASAM:symbol
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Runways:LFBA 11-29:centerline
+Runways:LFBC 06-24:centerline
+Runways:LFBD 05-23:centerline
+Runways:LFBD 11-29:centerline
+Runways:LFBE 09-27:centerline
+Runways:LFBF 11-29:centerline
+Runways:LFBG 05-23:centerline
+Runways:LFBG 08-26:centerline
+Runways:LFBH 09-27:centerline
+Runways:LFBI 03-21:centerline
+Runways:LFBL 03-21:centerline
+Runways:LFBO 14L-32R:centerline
+Runways:LFBO 14R-32L:centerline
+Runways:LFBP 13-31:centerline
+Runways:LFBT 02-20:centerline
+Runways:LFBZ 09-27:centerline
+Runways:LFBA 11-29:centerline
+Runways:LFBM 09-27:centerline
+Runways:LFCK 14-32:centerline
+Runways:LFMK 09-27:centerline
+Runways:LFSL 11-29:centerline
+NDBs:CVU:symbol
+Runways:LFCK 14-32:extended centerline 1
+Runways:LFCK 14-32:extended centerline 1 left vectoring
+Runways:LFCK 14-32:extended centerline 1 right vectoring
+Stars:LFCK ILS14 CVU:
+Stars:LFCK ILS14 FINOT:
+Stars:LFCK ILS14 GOKAS:
+Stars:LFCK STAR 14 AFRIC2M:
+Stars:LFCK STAR 14 GAI3V:
+Stars:LFCK STAR 14 MASAM2M:
+Stars:LFCK STAR 14 MEN2M:
+VORs:GAI:name
+VORs:GAI:symbol
+VORs:MEN:name
+VORs:MEN:symbol

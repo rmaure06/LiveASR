@@ -1,0 +1,85 @@
+&& LFBH 09 &&
+
+Fixes:BH091:symbol
+Fixes:BH092:symbol
+Fixes:IBH09:name
+Fixes:IBH09:symbol
+Fixes:LUGEN:name
+Fixes:LUGEN:symbol
+Fixes:LUSON:name
+Fixes:LUSON:symbol
+Fixes:MAREN:name
+Fixes:MAREN:symbol
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Runways:LFBA 11-29:centerline
+Runways:LFBC 06-24:centerline
+Runways:LFBD 05-23:centerline
+Runways:LFBD 11-29:centerline
+Runways:LFBE 09-27:centerline
+Runways:LFBF 11-29:centerline
+Runways:LFBG 05-23:centerline
+Runways:LFBG 08-26:centerline
+Runways:LFBH 09-27:centerline
+Runways:LFBI 03-21:centerline
+Runways:LFBL 03-21:centerline
+Runways:LFBO 14L-32R:centerline
+Runways:LFBO 14R-32L:centerline
+Runways:LFBP 13-31:centerline
+Runways:LFBT 02-20:centerline
+Runways:LFBZ 09-27:centerline
+Runways:LFBA 11-29:centerline
+Runways:LFBM 09-27:centerline
+Runways:LFCK 14-32:centerline
+Runways:LFMK 09-27:centerline
+Runways:LFSL 11-29:centerline
+NDBs:RL:symbol
+Stars:LFBH RNP09:
+Stars:LFBH RNP09 BH091:
+Stars:LFBH RNP09 BH092:
+Stars:LFBH RNP09 RL:
+Stars:LFBH STAR 09 LUSON6C:
+Stars:LFBH STAR 09 MAREN6C:
+Stars:LFBH STAR ALL LUGEN6L:
+
+&& LFBH 27 &&
+
+Fixes:DEGAX:symbol
+Fixes:LUGEN:name
+Fixes:LUGEN:symbol
+Fixes:LUSON:name
+Fixes:LUSON:symbol
+Fixes:MAREN:name
+Fixes:MAREN:symbol
+Fixes:XERGI:symbol
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Runways:LFBA 11-29:centerline
+Runways:LFBC 06-24:centerline
+Runways:LFBD 05-23:centerline
+Runways:LFBD 11-29:centerline
+Runways:LFBE 09-27:centerline
+Runways:LFBF 11-29:centerline
+Runways:LFBG 05-23:centerline
+Runways:LFBG 08-26:centerline
+Runways:LFBH 09-27:centerline
+Runways:LFBI 03-21:centerline
+Runways:LFBL 03-21:centerline
+Runways:LFBO 14L-32R:centerline
+Runways:LFBO 14R-32L:centerline
+Runways:LFBP 13-31:centerline
+Runways:LFBT 02-20:centerline
+Runways:LFBZ 09-27:centerline
+NDBs:RL:symbol
+Runways:LFBH 09-27:extended centerline 2
+Runways:LFBH 09-27:extended centerline 2 left vectoring
+Runways:LFBH 09-27:extended centerline 2 right vectoring
+Stars:LFBH STAR 27 LUSON6M:
+Stars:LFBH STAR 27 MAREN6M:
+Stars:LFBH STAR ALL LUGEN6D:

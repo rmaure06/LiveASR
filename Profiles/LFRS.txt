@@ -1,0 +1,129 @@
+&& LFRS 03 &&
+
+Fixes:EPIXO:name
+Fixes:EPIXO:symbol
+Fixes:ERBIN:name
+Fixes:ERBIN:symbol
+Fixes:GODAN:name
+Fixes:GODAN:symbol
+Fixes:LAROK:symbol
+Fixes:LUGEN:name
+Fixes:LUGEN:symbol
+Fixes:LUSON:name
+Fixes:LUSON:symbol
+Fixes:MANAK:name
+Fixes:MANAK:symbol
+Fixes:NEDAN:symbol
+Fixes:NITEM:symbol
+Fixes:NORMI:symbol
+Fixes:RIMON:name
+Fixes:RIMON:symbol
+Fixes:VALAX:name
+Fixes:VALAX:symbol
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Runways:LFRB 07R-25L:centerline
+Runways:LFRC 10-28:centerline
+Runways:LFRD 12-30:centerline
+Runways:LFRD 17-35:centerline
+Runways:LFRE 11-29:centerline
+Runways:LFRF 06-24:centerline
+Runways:LFRG 12-30:centerline
+Runways:LFRH 02-20:centerline
+Runways:LFRH 07-25:centerline
+Runways:LFRI 10-28:centerline
+Runways:LFRJ 07-25:centerline
+Runways:LFRK 13-31:centerline
+Runways:LFRN 10-28:centerline
+Runways:LFRN 14-32:centerline
+Runways:LFRO 11-29:centerline
+Runways:LFRQ 09-27:centerline
+Runways:LFRS 03-21:centerline
+Runways:LFRT 06-24:centerline
+Runways:LFRU 04-22:centerline
+Runways:LFRU 09-27:centerline
+Runways:LFRU 15-33:centerline
+Runways:LFRV 04-22:centerline
+Runways:LFRV 08-26:centerline
+Runways:LFRZ 07-25:centerline
+Runways:LFRS 03-21:extended centerline 1
+Runways:LFRS 03-21:extended centerline 1 left vectoring
+Runways:LFRS 03-21:extended centerline 1 right vectoring
+Stars:LFRS STAR 03 EPIXO1C:
+Stars:LFRS STAR 03 ERBIN1C:
+Stars:LFRS STAR 03 GODAN1C:
+Stars:LFRS STAR 03 LUGEN1C:
+Stars:LFRS STAR 03 LUSON1C:
+Stars:LFRS STAR 03 MANAK1C:
+Stars:LFRS STAR 03 RIMON1C:
+Stars:LFRS STAR 03 VALAX1C:
+
+&& LFRS 21 &&
+
+Fixes:EPIXO:name
+Fixes:EPIXO:symbol
+Fixes:ERBIN:name
+Fixes:ERBIN:symbol
+Fixes:GODAN:name
+Fixes:GODAN:symbol
+Fixes:IRS21:name
+Fixes:IRS21:symbol
+Fixes:LAROK:symbol
+Fixes:LUGEN:name
+Fixes:LUGEN:symbol
+Fixes:LUSON:name
+Fixes:LUSON:symbol
+Fixes:MANAK:name
+Fixes:MANAK:symbol
+Fixes:NEDAN:symbol
+Fixes:NITEM:symbol
+Fixes:NORMI:symbol
+Fixes:RIMON:name
+Fixes:RIMON:symbol
+Fixes:VALAX:name
+Fixes:VALAX:symbol
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Runways:LFRB 07R-25L:centerline
+Runways:LFRC 10-28:centerline
+Runways:LFRD 12-30:centerline
+Runways:LFRD 17-35:centerline
+Runways:LFRE 11-29:centerline
+Runways:LFRF 06-24:centerline
+Runways:LFRG 12-30:centerline
+Runways:LFRH 02-20:centerline
+Runways:LFRH 07-25:centerline
+Runways:LFRI 10-28:centerline
+Runways:LFRJ 07-25:centerline
+Runways:LFRK 13-31:centerline
+Runways:LFRN 10-28:centerline
+Runways:LFRN 14-32:centerline
+Runways:LFRO 11-29:centerline
+Runways:LFRQ 09-27:centerline
+Runways:LFRS 03-21:centerline
+Runways:LFRT 06-24:centerline
+Runways:LFRU 04-22:centerline
+Runways:LFRU 09-27:centerline
+Runways:LFRU 15-33:centerline
+Runways:LFRV 04-22:centerline
+Runways:LFRV 08-26:centerline
+Runways:LFRZ 07-25:centerline
+Stars:LFRS RNP21:
+Stars:LFRS RNP21 LAROK:
+Stars:LFRS RNP21 NEDAN:
+Stars:LFRS RNP21 NITEM:
+Stars:LFRS RNP21 NORMI:
+Stars:LFRS STAR 21 EPIXO1D:
+Stars:LFRS STAR 21 ERBIN1D:
+Stars:LFRS STAR 21 GODAN1D:
+Stars:LFRS STAR 21 LUGEN1D:
+Stars:LFRS STAR 21 LUSON1D:
+Stars:LFRS STAR 21 MANAK1D:
+Stars:LFRS STAR 21 RIMON1D:
+Stars:LFRS STAR 21 VALAX1D:

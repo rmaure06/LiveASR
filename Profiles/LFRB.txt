@@ -1,0 +1,102 @@
+&& LFRB 07R &&
+
+Fixes:ANLEV:name
+Fixes:ANLEV:symbol
+Fixes:BODIL:symbol
+Fixes:RB500:name
+Fixes:RB500:symbol
+Fixes:RB502:name
+Fixes:RB502:symbol
+Fixes:RB504:name
+Fixes:RB504:symbol
+Fixes:ROSPO:name
+Fixes:ROSPO:symbol
+Fixes:SOPEX:symbol
+Free Text:ZONE P112 BREST\FL195:freetext
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Geo:LFRR Prohibited area Brest P 112:
+Runways:LFRB 07R-25L:centerline
+Runways:LFRC 10-28:centerline
+Runways:LFRD 12-30:centerline
+Runways:LFRD 17-35:centerline
+Runways:LFRE 11-29:centerline
+Runways:LFRF 06-24:centerline
+Runways:LFRG 12-30:centerline
+Runways:LFRH 02-20:centerline
+Runways:LFRH 07-25:centerline
+Runways:LFRI 10-28:centerline
+Runways:LFRJ 07-25:centerline
+Runways:LFRK 13-31:centerline
+Runways:LFRN 10-28:centerline
+Runways:LFRN 14-32:centerline
+Runways:LFRO 11-29:centerline
+Runways:LFRQ 09-27:centerline
+Runways:LFRS 03-21:centerline
+Runways:LFRT 06-24:centerline
+Runways:LFRU 04-22:centerline
+Runways:LFRU 09-27:centerline
+Runways:LFRU 15-33:centerline
+Runways:LFRV 04-22:centerline
+Runways:LFRV 08-26:centerline
+Runways:LFRZ 07-25:centerline
+Stars:LFRB RNP07R:
+Stars:LFRB RNP07R RB500:
+Stars:LFRB RNP07R RB502:
+Stars:LFRB RNP07R RB504:
+Stars:LFRB STAR ALL ANLEV8C:
+Stars:LFRB STAR ALL QPR8D:
+Stars:LFRB STAR ALL ROSPO8C:
+VORs:QPR:name
+VORs:QPR:symbol
+
+&& LFRB 25L &&
+
+Fixes:ANLEV:name
+Fixes:ANLEV:symbol
+Fixes:BODIL:symbol
+Fixes:ROSPO:name
+Fixes:ROSPO:symbol
+Fixes:SOPEX:symbol
+Free Text:ZONE P112 BREST\FL195:freetext
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Geo:LFRR Prohibited area Brest P 112:
+Runways:LFRB 07R-25L:centerline
+Runways:LFRC 10-28:centerline
+Runways:LFRD 12-30:centerline
+Runways:LFRD 17-35:centerline
+Runways:LFRE 11-29:centerline
+Runways:LFRF 06-24:centerline
+Runways:LFRG 12-30:centerline
+Runways:LFRH 02-20:centerline
+Runways:LFRH 07-25:centerline
+Runways:LFRI 10-28:centerline
+Runways:LFRJ 07-25:centerline
+Runways:LFRK 13-31:centerline
+Runways:LFRN 10-28:centerline
+Runways:LFRN 14-32:centerline
+Runways:LFRO 11-29:centerline
+Runways:LFRQ 09-27:centerline
+Runways:LFRS 03-21:centerline
+Runways:LFRT 06-24:centerline
+Runways:LFRU 04-22:centerline
+Runways:LFRU 09-27:centerline
+Runways:LFRU 15-33:centerline
+Runways:LFRV 04-22:centerline
+Runways:LFRV 08-26:centerline
+Runways:LFRZ 07-25:centerline
+Runways:LFRB 07R-25L:extended centerline 2
+Runways:LFRB 07R-25L:extended centerline 2 left vectoring
+Runways:LFRB 07R-25L:extended centerline 2 right vectoring
+Stars:LFRB STAR ALL ANLEV8C:
+Stars:LFRB STAR ALL QPR8D:
+Stars:LFRB STAR ALL ROSPO8C:
+VORs:QPR:name
+VORs:QPR:symbol

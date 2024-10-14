@@ -1,0 +1,113 @@
+&& LFRG 12 &&
+
+Fixes:ABAMU:symbol
+Fixes:BAGEK:symbol
+Fixes:BERNO:name
+Fixes:BERNO:symbol
+Fixes:DEMOM:symbol
+Fixes:ETRAT:name
+Fixes:ETRAT:symbol
+Fixes:OKRUZ:name
+Fixes:OKRUZ:symbol
+Free Text:ZONE P27 GRAVENCHON\3300:freetext
+Free Text:ZONE P28 LE HAVRE\3300:freetext
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Geo:LFFF Prohibited area Gravenchon P 27:
+Geo:LFFF Prohibited area Le Havre P 28:
+Runways:LFRB 07R-25L:centerline
+Runways:LFRC 10-28:centerline
+Runways:LFRD 12-30:centerline
+Runways:LFRD 17-35:centerline
+Runways:LFRE 11-29:centerline
+Runways:LFRF 06-24:centerline
+Runways:LFRG 12-30:centerline
+Runways:LFRH 02-20:centerline
+Runways:LFRH 07-25:centerline
+Runways:LFRI 10-28:centerline
+Runways:LFRJ 07-25:centerline
+Runways:LFRK 13-31:centerline
+Runways:LFRN 10-28:centerline
+Runways:LFRN 14-32:centerline
+Runways:LFRO 11-29:centerline
+Runways:LFRQ 09-27:centerline
+Runways:LFRS 03-21:centerline
+Runways:LFRT 06-24:centerline
+Runways:LFRU 04-22:centerline
+Runways:LFRU 09-27:centerline
+Runways:LFRU 15-33:centerline
+Runways:LFRV 04-22:centerline
+Runways:LFRV 08-26:centerline
+Runways:LFRZ 07-25:centerline
+Stars:LFRG RNP12:
+Stars:LFRG RNP12 ABAMU:
+Stars:LFRG RNP12 BAGEK:
+Stars:LFRG RNP12 DEMOM:
+Stars:LFRG STAR 12 BERNO4R:
+Stars:LFRG STAR 12 CAN4R:
+Stars:LFRG STAR 12 ETRAT4R:
+Stars:LFRG STAR 12 LGL4R:
+Stars:LFRG STAR 12 OKRUZ4R:
+Stars:LFRG STAR 12 ROU4R:
+VORs:CAN:name
+VORs:CAN:symbol
+VORs:LGL:name
+VORs:LGL:symbol
+VORs:ROU:name
+VORs:ROU:symbol
+
+&& LFRG 30 &&
+
+Fixes:BERNO:name
+Fixes:BERNO:symbol
+Fixes:DODIM:symbol
+Fixes:ETRAT:name
+Fixes:ETRAT:symbol
+Free Text:ZONE P27 GRAVENCHON\3300:freetext
+Free Text:ZONE P28 LE HAVRE\3300:freetext
+Geo:LFBB Landmark Coastline:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Geo:LFFF Prohibited area Gravenchon P 27:
+Geo:LFFF Prohibited area Le Havre P 28:
+Runways:LFRB 07R-25L:centerline
+Runways:LFRC 10-28:centerline
+Runways:LFRD 12-30:centerline
+Runways:LFRD 17-35:centerline
+Runways:LFRE 11-29:centerline
+Runways:LFRF 06-24:centerline
+Runways:LFRG 12-30:centerline
+Runways:LFRH 02-20:centerline
+Runways:LFRH 07-25:centerline
+Runways:LFRI 10-28:centerline
+Runways:LFRJ 07-25:centerline
+Runways:LFRK 13-31:centerline
+Runways:LFRN 10-28:centerline
+Runways:LFRN 14-32:centerline
+Runways:LFRO 11-29:centerline
+Runways:LFRQ 09-27:centerline
+Runways:LFRS 03-21:centerline
+Runways:LFRT 06-24:centerline
+Runways:LFRU 04-22:centerline
+Runways:LFRU 09-27:centerline
+Runways:LFRU 15-33:centerline
+Runways:LFRV 04-22:centerline
+Runways:LFRV 08-26:centerline
+Runways:LFRZ 07-25:centerline
+Runways:LFRG 12-30:extended centerline 2
+Runways:LFRG 12-30:extended centerline 2 left vectoring
+Runways:LFRG 12-30:extended centerline 2 right vectoring
+Stars:LFRG STAR 30 BERNO4D:
+Stars:LFRG STAR 30 CAN4D:
+Stars:LFRG STAR 30 ETRAT4D:
+Stars:LFRG STAR 30 LGL4D:
+VORs:CAN:name
+VORs:CAN:symbol
+VORs:DVL:symbol
+VORs:LGL:name
+VORs:LGL:symbol

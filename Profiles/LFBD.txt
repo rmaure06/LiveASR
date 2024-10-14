@@ -1,0 +1,225 @@
+&& LFBD 23 &&
+
+Fixes:DIRAX:symbol
+Fixes:ETPAR:symbol
+Fixes:LIBRU:symbol
+Fixes:MIRBA:name
+Fixes:MIRBA:symbol
+Fixes:ROYAN:name
+Fixes:ROYAN:symbol
+Fixes:VAGNA:symbol
+Fixes:VAVIX:name
+Fixes:VAVIX:symbol
+Fixes:VELIN:name
+Fixes:VELIN:symbol
+Free Text:ZONE P1 BLAYAIS-BRAUD ET SAINT LOUIS\3300:freetext
+Free Text:ZONE P5 LE BARP\3500:freetext
+Geo:LFBB Landmark Coastline:
+Geo:LFBB Prohibited area Blayais-Braud et Saint Louis P 1:
+Geo:LFBB Prohibited area Le Barp P 5:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Runways:LFBA 11-29:centerline
+Runways:LFBC 06-24:centerline
+Runways:LFBD 05-23:centerline
+Runways:LFBD 11-29:centerline
+Runways:LFBE 09-27:centerline
+Runways:LFBF 11-29:centerline
+Runways:LFBG 05-23:centerline
+Runways:LFBG 08-26:centerline
+Runways:LFBH 09-27:centerline
+Runways:LFBI 03-21:centerline
+Runways:LFBL 03-21:centerline
+Runways:LFBO 14L-32R:centerline
+Runways:LFBO 14R-32L:centerline
+Runways:LFBP 13-31:centerline
+Runways:LFBT 02-20:centerline
+Runways:LFBZ 09-27:centerline
+Runways:LFBA 11-29:centerline
+Runways:LFBM 09-27:centerline
+Runways:LFCK 14-32:centerline
+Runways:LFMK 09-27:centerline
+Runways:LFSL 11-29:centerline
+Runways:LFBD 05-23:extended centerline 2
+Runways:LFBD 05-23:extended centerline 2 left vectoring
+Runways:LFBD 05-23:extended centerline 2 right vectoring
+Stars:LFBD STAR ALL CNA2L:
+Stars:LFBD STAR ALL LMG2L:
+Stars:LFBD STAR ALL MIRBA2L:
+Stars:LFBD STAR ALL ROYAN2L:
+Stars:LFBD STAR ALL VAVIX2L:
+Stars:LFBD STAR ALL VELIN2L:
+VORs:CNA:name
+VORs:CNA:symbol
+VORs:LMG:name
+VORs:LMG:symbol
+
+&& LFBD 05 &&
+
+Fixes:DIRAX:symbol
+Fixes:ETPAR:symbol
+Fixes:ID05Z:name
+Fixes:ID05Z:symbol
+Fixes:LIBRU:symbol
+Fixes:MIRBA:name
+Fixes:MIRBA:symbol
+Fixes:ROYAN:name
+Fixes:ROYAN:symbol
+Fixes:VAGNA:symbol
+Fixes:VAVIX:name
+Fixes:VAVIX:symbol
+Fixes:VELIN:name
+Fixes:VELIN:symbol
+Free Text:ZONE P1 BLAYAIS-BRAUD ET SAINT LOUIS\3300:freetext
+Free Text:ZONE P5 LE BARP\3500:freetext
+Geo:LFBB Landmark Coastline:
+Geo:LFBB Prohibited area Blayais-Braud et Saint Louis P 1:
+Geo:LFBB Prohibited area Le Barp P 5:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Runways:LFBA 11-29:centerline
+Runways:LFBC 06-24:centerline
+Runways:LFBD 05-23:centerline
+Runways:LFBD 11-29:centerline
+Runways:LFBE 09-27:centerline
+Runways:LFBF 11-29:centerline
+Runways:LFBG 05-23:centerline
+Runways:LFBG 08-26:centerline
+Runways:LFBH 09-27:centerline
+Runways:LFBI 03-21:centerline
+Runways:LFBL 03-21:centerline
+Runways:LFBO 14L-32R:centerline
+Runways:LFBO 14R-32L:centerline
+Runways:LFBP 13-31:centerline
+Runways:LFBT 02-20:centerline
+Runways:LFBZ 09-27:centerline
+Stars:LFBD RNP05-Z:
+Stars:LFBD RNP05-Z DIRAX:
+Stars:LFBD RNP05-Z ETPAR:
+Stars:LFBD RNP05-Z LIBRU:
+Stars:LFBD RNP05-Z VAGNA1:
+Stars:LFBD RNP05-Z VAGNA2:
+Stars:LFBD STAR ALL CNA2L:
+Stars:LFBD STAR ALL LMG2L:
+Stars:LFBD STAR ALL MIRBA2L:
+Stars:LFBD STAR ALL ROYAN2L:
+Stars:LFBD STAR ALL VAVIX2L:
+Stars:LFBD STAR ALL VELIN2L:
+VORs:CNA:name
+VORs:CNA:symbol
+VORs:LMG:name
+VORs:LMG:symbol
+
+&& LFBD 11 &&
+
+Fixes:DIRAX:symbol
+Fixes:ETPAR:symbol
+Fixes:IBD11:name
+Fixes:IBD11:symbol
+Fixes:LIBRU:symbol
+Fixes:MIRBA:name
+Fixes:MIRBA:symbol
+Fixes:ROYAN:name
+Fixes:ROYAN:symbol
+Fixes:VAGNA:symbol
+Fixes:VAVIX:name
+Fixes:VAVIX:symbol
+Fixes:VELIN:name
+Fixes:VELIN:symbol
+Free Text:ZONE P1 BLAYAIS-BRAUD ET SAINT LOUIS\3300:freetext
+Free Text:ZONE P5 LE BARP\3500:freetext
+Geo:LFBB Landmark Coastline:
+Geo:LFBB Prohibited area Blayais-Braud et Saint Louis P 1:
+Geo:LFBB Prohibited area Le Barp P 5:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Runways:LFBA 11-29:centerline
+Runways:LFBC 06-24:centerline
+Runways:LFBD 05-23:centerline
+Runways:LFBD 11-29:centerline
+Runways:LFBE 09-27:centerline
+Runways:LFBF 11-29:centerline
+Runways:LFBG 05-23:centerline
+Runways:LFBG 08-26:centerline
+Runways:LFBH 09-27:centerline
+Runways:LFBI 03-21:centerline
+Runways:LFBL 03-21:centerline
+Runways:LFBO 14L-32R:centerline
+Runways:LFBO 14R-32L:centerline
+Runways:LFBP 13-31:centerline
+Runways:LFBT 02-20:centerline
+Runways:LFBZ 09-27:centerline
+Stars:LFBD RNP11:
+Stars:LFBD RNP11 DIRAX:
+Stars:LFBD RNP11 ETPAR:
+Stars:LFBD RNP11 LIBRU:
+Stars:LFBD RNP11 VAGNA:
+Stars:LFBD STAR ALL CNA2L:
+Stars:LFBD STAR ALL LMG2L:
+Stars:LFBD STAR ALL MIRBA2L:
+Stars:LFBD STAR ALL ROYAN2L:
+Stars:LFBD STAR ALL VAVIX2L:
+Stars:LFBD STAR ALL VELIN2L:
+VORs:CNA:name
+VORs:CNA:symbol
+VORs:LMG:name
+VORs:LMG:symbol
+
+&& LFBD 29 &&
+
+Fixes:DIRAX:symbol
+Fixes:ETPAR:symbol
+Fixes:LIBRU:symbol
+Fixes:MIRBA:name
+Fixes:MIRBA:symbol
+Fixes:ROYAN:name
+Fixes:ROYAN:symbol
+Fixes:VAGNA:symbol
+Fixes:VAVIX:name
+Fixes:VAVIX:symbol
+Fixes:VELIN:name
+Fixes:VELIN:symbol
+Free Text:ZONE P1 BLAYAIS-BRAUD ET SAINT LOUIS\3300:freetext
+Free Text:ZONE P5 LE BARP\3500:freetext
+Geo:LFBB Landmark Coastline:
+Geo:LFBB Prohibited area Blayais-Braud et Saint Louis P 1:
+Geo:LFBB Prohibited area Le Barp P 5:
+Geo:LFEE Landmark Coastlines:
+Geo:LFEE Landmark Frontiere:
+Geo:LFMM Landmark Coastlines:
+Geo:LFRR Landmark Coastlines:
+Runways:LFBA 11-29:centerline
+Runways:LFBC 06-24:centerline
+Runways:LFBD 05-23:centerline
+Runways:LFBD 11-29:centerline
+Runways:LFBE 09-27:centerline
+Runways:LFBF 11-29:centerline
+Runways:LFBG 05-23:centerline
+Runways:LFBG 08-26:centerline
+Runways:LFBH 09-27:centerline
+Runways:LFBI 03-21:centerline
+Runways:LFBL 03-21:centerline
+Runways:LFBO 14L-32R:centerline
+Runways:LFBO 14R-32L:centerline
+Runways:LFBP 13-31:centerline
+Runways:LFBT 02-20:centerline
+Runways:LFBZ 09-27:centerline
+Runways:LFBD 11-29:extended centerline 2
+Runways:LFBD 11-29:extended centerline 2 left vectoring
+Runways:LFBD 11-29:extended centerline 2 right vectoring
+Stars:LFBD STAR ALL CNA2L:
+Stars:LFBD STAR ALL LMG2L:
+Stars:LFBD STAR ALL MIRBA2L:
+Stars:LFBD STAR ALL ROYAN2L:
+Stars:LFBD STAR ALL VAVIX2L:
+Stars:LFBD STAR ALL VELIN2L:
+VORs:CNA:name
+VORs:CNA:symbol
+VORs:LMG:name
+VORs:LMG:symbol
