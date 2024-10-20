@@ -1,0 +1,95 @@
+
+&& LFJL 04 &&
+
+Fixes:JL503:symbol
+Fixes:MAKOT:name
+Fixes:MAKOT:symbol
+Fixes:MONCE:symbol
+Fixes:PHALO:name
+Fixes:PHALO:symbol
+NDBs:MTZ:symbol
+Runways:LFGJ 05-23:centerline
+Runways:LFJL 04-22:centerline
+Runways:LFSB 07-25:centerline
+Runways:LFSB 15-33:centerline
+Runways:LFSD 01-19:centerline
+Runways:LFSD 17-35:centerline
+Runways:LFSG 08-26:centerline
+Runways:LFSH 03-21:centerline
+Runways:LFSI 11-29:centerline
+Runways:LFSJ 08-26:centerline
+Runways:LFSK 05-23:centerline
+Runways:LFSK 11-29:centerline
+Runways:LFSL 11-29:centerline
+Runways:LFSM 08-26:centerline
+Runways:LFSN 03-21:centerline
+Runways:LFSO 02-20:centerline
+Runways:LFSP 02-20:centerline
+Runways:LFSS 09-27:centerline
+Runways:LFST 05-23:centerline
+Runways:LFSV 06-24:centerline
+Runways:LFSV 18-36:centerline
+Runways:LFSX 11-29:centerline
+Stars:LFJL RNP04:
+Stars:LFJL RNP04 EPL:
+Stars:LFJL RNP04 MONCE:
+Stars:LFJL RNP04 MTZ:
+Stars:LFJL STAR ALL DIK3A:
+Stars:LFJL STAR ALL MAKOT3A:
+Stars:LFJL STAR ALL MMD3J:
+Stars:LFJL STAR ALL PHALO3B:
+VORs:DIK:name
+VORs:DIK:symbol
+VORs:EPL:symbol
+VORs:MMD:name
+VORs:MMD:symbol
+
+&& LFJL 22 &&
+
+Fixes:MAKOPT:name
+Fixes:MAKOPT:symbol
+Fixes:MAKOT:name
+Fixes:MAKOT:symbol
+Fixes:MONCE:name
+Fixes:MONCE:symbol
+Fixes:PHALO:name
+Fixes:PHALO:symbol
+NDBs:MTZ:symbol
+Runways:LFGJ 05-23:centerline
+Runways:LFJL 04-22:centerline
+Runways:LFJL 04-22:extended centerline 2
+Runways:LFJL 04-22:extended centerline 2 left vectoring
+Runways:LFJL 04-22:extended centerline 2 right vectoring
+Runways:LFSB 07-25:centerline
+Runways:LFSB 15-33:centerline
+Runways:LFSD 01-19:centerline
+Runways:LFSD 17-35:centerline
+Runways:LFSG 08-26:centerline
+Runways:LFSH 03-21:centerline
+Runways:LFSI 11-29:centerline
+Runways:LFSJ 08-26:centerline
+Runways:LFSK 05-23:centerline
+Runways:LFSK 11-29:centerline
+Runways:LFSL 11-29:centerline
+Runways:LFSM 08-26:centerline
+Runways:LFSN 03-21:centerline
+Runways:LFSO 02-20:centerline
+Runways:LFSP 02-20:centerline
+Runways:LFSS 09-27:centerline
+Runways:LFST 05-23:centerline
+Runways:LFSV 06-24:centerline
+Runways:LFSV 18-36:centerline
+Runways:LFSX 11-29:centerline
+Stars:LFJL ILS22-Z MTZ:
+Stars:LFJL STAR ALL DIK3A:
+Stars:LFJL STAR ALL EPL3B:
+Stars:LFJL STAR ALL MAKOT3A:
+Stars:LFJL STAR ALL MMD3J:
+Stars:LFJL STAR ALL MONCE3A:
+Stars:LFJL STAR ALL PHALO3B:
+VORs:DIK:name
+VORs:DIK:symbol
+VORs:EPL:name
+VORs:EPL:symbol
+VORs:MMD:name
+VORs:MMD:symbol

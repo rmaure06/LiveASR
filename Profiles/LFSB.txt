@@ -1,0 +1,124 @@
+
+&& LFSB 15 &&
+
+Fixes:ALTIK:symbol
+Fixes:ARPUS:name
+Fixes:ARPUS:symbol
+Fixes:LUMEL:name
+Fixes:LUMEL:symbol
+Free Text:LFSB AMSR\2800:freetext
+Free Text:LFSB AMSR\2900:freetext
+Free Text:LFSB AMSR\3000:freetext
+Free Text:LFSB AMSR\3500:freetext
+Free Text:LFSB AMSR\4000:freetext
+Free Text:LFSB AMSR\4100:freetext
+Free Text:LFSB AMSR\4400:freetext
+Free Text:LFSB AMSR\4500:freetext
+Free Text:LFSB AMSR\4600:freetext
+Free Text:LFSB AMSR\4900:freetext
+Free Text:LFSB AMSR\5000:freetext
+Free Text:LFSB AMSR\5400:freetext
+Free Text:LFSB AMSR\5700:freetext
+Free Text:LFSB AMSR\5800:freetext
+Free Text:LFSB AMSR\6000:freetext
+Free Text:LFSB AMSR\6500:freetext
+Free Text:LFSB AMSR\6600:freetext
+Free Text:LFSB AMSR\7000:freetext
+Free Text:LFSB AMSR\7100:freetext
+Free Text:LFSB AMSR\7300:freetext
+Free Text:LFSB AMSR\8000:freetext
+Free Text:LFSB AMSR\8200:freetext
+Free Text:LFSB AMSR\8400:freetext
+Free Text:ZONE P36 FESSENHEIM\4000:freetext
+Geo:LFEE Prohibited area Fessenheim P 36:
+Geo:LFSB Centerlines 15:
+Geo:LFSB MRVA Bale Mulhouse AMSR:
+Runways:LFGJ 05-23:centerline
+Runways:LFJL 04-22:centerline
+Runways:LFSB 07-25:centerline
+Runways:LFSB 15-33:centerline
+Runways:LFSD 01-19:centerline
+Runways:LFSD 17-35:centerline
+Runways:LFSG 08-26:centerline
+Runways:LFSH 03-21:centerline
+Runways:LFSI 11-29:centerline
+Runways:LFSJ 08-26:centerline
+Runways:LFSK 05-23:centerline
+Runways:LFSK 11-29:centerline
+Runways:LFSL 11-29:centerline
+Runways:LFSM 08-26:centerline
+Runways:LFSN 03-21:centerline
+Runways:LFSO 02-20:centerline
+Runways:LFSP 02-20:centerline
+Runways:LFSS 09-27:centerline
+Runways:LFST 05-23:centerline
+Runways:LFSV 06-24:centerline
+Runways:LFSV 18-36:centerline
+Runways:LFSX 11-29:centerline
+Stars:LFSB STAR ALL ARPUS8K:
+Stars:LFSB STAR ALL LUMEL8K:
+Stars:LFSB STAR ALL STR8K:
+VORs:STR:name
+VORs:STR:symbol
+
+&& LFSB 33 &&
+
+Fixes:ALTIK:symbol
+Fixes:ARPUS:name
+Fixes:ARPUS:symbol
+Fixes:LUMEL:name
+Fixes:LUMEL:symbol
+Free Text:LFSB AMSR\2800:freetext
+Free Text:LFSB AMSR\2900:freetext
+Free Text:LFSB AMSR\3000:freetext
+Free Text:LFSB AMSR\3500:freetext
+Free Text:LFSB AMSR\4000:freetext
+Free Text:LFSB AMSR\4100:freetext
+Free Text:LFSB AMSR\4400:freetext
+Free Text:LFSB AMSR\4500:freetext
+Free Text:LFSB AMSR\4600:freetext
+Free Text:LFSB AMSR\4900:freetext
+Free Text:LFSB AMSR\5000:freetext
+Free Text:LFSB AMSR\5400:freetext
+Free Text:LFSB AMSR\5700:freetext
+Free Text:LFSB AMSR\5800:freetext
+Free Text:LFSB AMSR\6000:freetext
+Free Text:LFSB AMSR\6500:freetext
+Free Text:LFSB AMSR\6600:freetext
+Free Text:LFSB AMSR\7000:freetext
+Free Text:LFSB AMSR\7100:freetext
+Free Text:LFSB AMSR\7300:freetext
+Free Text:LFSB AMSR\8000:freetext
+Free Text:LFSB AMSR\8200:freetext
+Free Text:LFSB AMSR\8400:freetext
+Free Text:ZONE P36 FESSENHEIM\4000:freetext
+Geo:LFEE Prohibited area Fessenheim P 36:
+Geo:LFSB Centerlines 33:
+Geo:LFSB MRVA Bale Mulhouse AMSR:
+Runways:LFGJ 05-23:centerline
+Runways:LFJL 04-22:centerline
+Runways:LFSB 07-25:centerline
+Runways:LFSB 15-33:centerline
+Runways:LFSD 01-19:centerline
+Runways:LFSD 17-35:centerline
+Runways:LFSG 08-26:centerline
+Runways:LFSH 03-21:centerline
+Runways:LFSI 11-29:centerline
+Runways:LFSJ 08-26:centerline
+Runways:LFSK 05-23:centerline
+Runways:LFSK 11-29:centerline
+Runways:LFSL 11-29:centerline
+Runways:LFSM 08-26:centerline
+Runways:LFSN 03-21:centerline
+Runways:LFSO 02-20:centerline
+Runways:LFSP 02-20:centerline
+Runways:LFSS 09-27:centerline
+Runways:LFST 05-23:centerline
+Runways:LFSV 06-24:centerline
+Runways:LFSV 18-36:centerline
+Runways:LFSX 11-29:centerline
+Stars:LFSB STAR ALL ARPUS8K:
+Stars:LFSB STAR ALL LUMEL8K:
+Stars:LFSB STAR ALL STR8K:
+VORs:STR:name
+VORs:STR:symbol

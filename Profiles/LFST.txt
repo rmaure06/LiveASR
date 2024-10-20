@@ -1,0 +1,125 @@
+
+&& LFST 05 &&
+
+Fixes:ANDLO:symbol
+Fixes:LUPEN:name
+Fixes:LUPEN:symbol
+Free Text:LFST AMSR\2500:freetext
+Free Text:LFST AMSR\3000:freetext
+Free Text:LFST AMSR\3200:freetext
+Free Text:LFST AMSR\3300:freetext
+Free Text:LFST AMSR\3500:freetext
+Free Text:LFST AMSR\3700:freetext
+Free Text:LFST AMSR\3900:freetext
+Free Text:LFST AMSR\4000:freetext
+Free Text:LFST AMSR\4200:freetext
+Free Text:LFST AMSR\4300:freetext
+Free Text:LFST AMSR\4500:freetext
+Free Text:LFST AMSR\4600:freetext
+Free Text:LFST AMSR\5000:freetext
+Free Text:LFST AMSR\5100:freetext
+Free Text:LFST AMSR\5200:freetext
+Free Text:LFST AMSR\5500:freetext
+Free Text:LFST AMSR\5700:freetext
+Free Text:LFST AMSR\5800:freetext
+Free Text:LFST AMSR\6000:freetext
+Free Text:LFST AMSR\6100:freetext
+Free Text:LFST AMSR\6400:freetext
+Geo:LFST MRVA Strasbourg AMSR:
+Runways:LFGJ 05-23:centerline
+Runways:LFJL 04-22:centerline
+Runways:LFSB 07-25:centerline
+Runways:LFSB 15-33:centerline
+Runways:LFSD 01-19:centerline
+Runways:LFSD 17-35:centerline
+Runways:LFSG 08-26:centerline
+Runways:LFSH 03-21:centerline
+Runways:LFSI 11-29:centerline
+Runways:LFSJ 08-26:centerline
+Runways:LFSK 05-23:centerline
+Runways:LFSK 11-29:centerline
+Runways:LFSL 11-29:centerline
+Runways:LFSM 08-26:centerline
+Runways:LFSN 03-21:centerline
+Runways:LFSO 02-20:centerline
+Runways:LFSP 02-20:centerline
+Runways:LFSS 09-27:centerline
+Runways:LFST 05-23:centerline
+Runways:LFST 05-23:extended centerline 1
+Runways:LFSV 06-24:centerline
+Runways:LFSV 18-36:centerline
+Runways:LFSX 11-29:centerline
+Stars:LFST STAR 05 EPL6Y:
+Stars:LFST STAR 05 GTQ6Y:
+Stars:LFST STAR 05 LUL6Y:
+Stars:LFST STAR 05 LUPEN6Y:
+VORs:EPL:name
+VORs:EPL:symbol
+VORs:GTQ:name
+VORs:GTQ:symbol
+VORs:LUL:name
+VORs:LUL:symbol
+
+&& LFST 23 &&
+
+Fixes:LUPEN:name
+Fixes:LUPEN:symbol
+Free Text:LFST AMSR\2500:freetext
+Free Text:LFST AMSR\3000:freetext
+Free Text:LFST AMSR\3200:freetext
+Free Text:LFST AMSR\3300:freetext
+Free Text:LFST AMSR\3500:freetext
+Free Text:LFST AMSR\3700:freetext
+Free Text:LFST AMSR\3900:freetext
+Free Text:LFST AMSR\4000:freetext
+Free Text:LFST AMSR\4200:freetext
+Free Text:LFST AMSR\4300:freetext
+Free Text:LFST AMSR\4500:freetext
+Free Text:LFST AMSR\4600:freetext
+Free Text:LFST AMSR\5000:freetext
+Free Text:LFST AMSR\5100:freetext
+Free Text:LFST AMSR\5200:freetext
+Free Text:LFST AMSR\5500:freetext
+Free Text:LFST AMSR\5700:freetext
+Free Text:LFST AMSR\5800:freetext
+Free Text:LFST AMSR\6000:freetext
+Free Text:LFST AMSR\6100:freetext
+Free Text:LFST AMSR\6400:freetext
+Geo:LFST MRVA Strasbourg AMSR:
+Runways:LFGJ 05-23:centerline
+Runways:LFJL 04-22:centerline
+Runways:LFSB 07-25:centerline
+Runways:LFSB 15-33:centerline
+Runways:LFSD 01-19:centerline
+Runways:LFSD 17-35:centerline
+Runways:LFSG 08-26:centerline
+Runways:LFSH 03-21:centerline
+Runways:LFSI 11-29:centerline
+Runways:LFSJ 08-26:centerline
+Runways:LFSK 05-23:centerline
+Runways:LFSK 11-29:centerline
+Runways:LFSL 11-29:centerline
+Runways:LFSM 08-26:centerline
+Runways:LFSN 03-21:centerline
+Runways:LFSO 02-20:centerline
+Runways:LFSP 02-20:centerline
+Runways:LFSS 09-27:centerline
+Runways:LFST 05-23:centerline
+Runways:LFST 05-23:extended centerline 2
+Runways:LFST 05-23:extended centerline 2 left vectoring
+Runways:LFST 05-23:extended centerline 2 right vectoring
+Runways:LFSV 06-24:centerline
+Runways:LFSV 18-36:centerline
+Runways:LFSX 11-29:centerline
+Stars:LFST ILS23 SAV:
+Stars:LFST STAR 23 EPL6V:
+Stars:LFST STAR 23 GTQ6V:
+Stars:LFST STAR 23 LUL6V:
+Stars:LFST STAR 23 LUPEN6V:
+VORs:EPL:name
+VORs:EPL:symbol
+VORs:GTQ:name
+VORs:GTQ:symbol
+VORs:LUL:name
+VORs:LUL:symbol
+VORs:SAV:symbol
